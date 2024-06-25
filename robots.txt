@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://companysetupfreezone-ae.pages.dev/sitemap.xml
